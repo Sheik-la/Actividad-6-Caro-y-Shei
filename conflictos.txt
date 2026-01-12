@@ -1,0 +1,10 @@
+Resolución de conflictos
+
+Durante el trabajo colaborativo en el repositorio, se presentaron conflictos porque ambas participantes realizaron modificaciones sobre los mismos archivos en distintos momentos. Estos conflictos ocurrieron al intentar sincronizar los cambios locales con el repositorio remoto.
+
+En el caso del archivo tom.txt, se decidió unificar los comentarios de ambas participantes, conservando la información aportada por cada una dentro del mismo archivo. De esta manera, no se perdió ningún contenido y se integraron correctamente ambos aportes.
+
+Por otro lado, en los archivos pat.txt y jazmin.txt, se optó por mantener un comentario distinto en cada archivo, respetando la autoría y el contenido agregado por cada participante sin mezclar la información.
+
+Finalmente, una vez resueltos los conflictos, los archivos quedaron actualizados correctamente y el repositorio pudo sincronizarse sin errores, permitiendo que ambas participantes visualizaran los cambios finales.
+Caro y Shei
