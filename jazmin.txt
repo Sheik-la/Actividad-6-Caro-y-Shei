@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hola, soy Caro parte 3
 ahora quiero una planta de jazmin-caro
 jazmin definitivo a ver si ahora si
+=======
+Nuevo contenido para jazmin - agregado por Shei
+Comentario agregado por Shei
+>>>>>>> 8f85a6d3283130b9296ded4da3db281773d97b3b

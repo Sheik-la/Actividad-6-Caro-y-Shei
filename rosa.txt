@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+Nuevo contenido para rosa
 hola, soy Caro parte 2
 Caro esta modificando rosa
-=======
 tomates para rosa
->>>>>>> f6d6e2d07ca3b66710152f7306bb31e4cb3e75b5
