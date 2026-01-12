@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 galletas con leche
 Caro modifica emi
+=======
+emi toma cafe con pan en la mañana
+>>>>>>> dc9a9e4b2c7d421a753ad3e857a7d1f8bb7d92fa
