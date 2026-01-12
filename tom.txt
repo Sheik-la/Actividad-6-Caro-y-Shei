@@ -1,1 +1,6 @@
 alfajor con chocolate
+<<<<<<< HEAD
+Linea agregada por Shei
+=======
+estoy modificando tom soy Caro
+>>>>>>> d94cbaaf929fb12824e1851448ec71f833ad163e
